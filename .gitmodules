@@ -4,3 +4,6 @@
 [submodule "Durable-Functions"]
 	path = Durable-Functions
 	url = https://github.com/rafaeldouetts/Durable-Functions
+[submodule "Event-driven-Architecture"]
+	path = Event-driven-Architecture
+	url = https://github.com/rafaeldouetts/Event-driven-Architecture
