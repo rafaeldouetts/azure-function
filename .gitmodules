@@ -7,3 +7,6 @@
 [submodule "Event-driven-Architecture"]
 	path = Event-driven-Architecture
 	url = https://github.com/rafaeldouetts/Event-driven-Architecture
+[submodule "HTTP-based-Architecture"]
+	path = HTTP-based-Architecture
+	url = https://github.com/rafaeldouetts/HTTP-based-Architecture
