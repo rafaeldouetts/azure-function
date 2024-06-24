@@ -1,3 +1,6 @@
 [submodule "Data-Processing-Pipelines"]
 	path = Data-Processing-Pipelines
 	url = https://github.com/rafaeldouetts/Data-Processing-Pipelines
+[submodule "Durable-Functions"]
+	path = Durable-Functions
+	url = https://github.com/rafaeldouetts/Durable-Functions
